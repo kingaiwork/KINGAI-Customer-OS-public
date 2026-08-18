@@ -1,0 +1,9 @@
+{
+  "schema":"kingai.customer-knowledge-source.v1",
+  "project_id":"kingai-customer-os",
+  "visibility":"public",
+  "language_order":["en","zh-CN"],
+  "customer_safe_paths":["README.md","BUSINESS.md","ROADMAP.md","llms.txt"],
+  "publish_policy":"Only bilingual public product facts, customer-facing value statements and explicitly labeled roadmap content may become customer answers. Private CRM data, internal prompts, proprietary source, credentials and private repositories are never public knowledge sources.",
+  "private_repository_access":false
+}

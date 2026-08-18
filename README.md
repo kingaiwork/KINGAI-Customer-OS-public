@@ -1,59 +1,88 @@
 # KING AI Customer OS
 
+**Turn support into service, conversations into opportunities, and public knowledge into a reusable customer experience.**
+
+Official product: https://kefu.kingai.work/  
+KING AI: https://www.kingai.work/  
+Business & partnerships: vip@kingai.work
+
+This public repository is a **commercial showcase only**. It contains no source code, private knowledge, internal architecture, API details, database design, authentication mechanisms, deployment instructions, prompts, model-routing logic or confidential customer data.
+
 ## English
 
-**Customer support, sales assistance and relationship intelligence for the KING AI ecosystem.**
+### One customer system instead of disconnected support tools
 
-KING AI Customer OS is designed to turn product knowledge, customer questions, lead capture, service workflows and human handoff into one more consistent customer experience.
+Customer service, lead capture, sales follow-up, FAQs, product education and CRM activity are often split across too many tools. KING AI Customer OS is designed as a more unified customer relationship layer: answer known questions efficiently, route harder questions intelligently, capture useful context and help teams turn conversations into better service and stronger commercial relationships.
 
-### Why it matters
+A central product principle is **public-knowledge first**. Customer-facing answers should come from information approved for public use. Private repositories, internal secrets and confidential operating knowledge are not intended to become customer-facing knowledge sources.
 
-Customers want useful answers and clear next steps, not another complicated support system. Customer OS is being built to help organizations:
+### What customers should feel
 
-- answer recurring questions from approved public knowledge;
-- guide users toward the right product, service or action;
-- capture qualified interest without making every interaction feel like a form;
-- preserve clear human handoff for sensitive or high-value conversations;
-- support multiple products through a reusable customer-experience layer;
-- evolve toward richer multilingual service, sales assistance and relationship intelligence.
+A good customer system should feel fast, consistent and useful. Visitors should not need to understand how the system works internally. They should be able to discover a product, get an answer, know what to do next and reach a human or business process when appropriate.
 
-### Product opportunity
+### Core product value
 
-The long-term direction goes beyond a chatbot. Customer OS can grow into a reusable customer operating layer connecting discovery, support, intent, relationship history, guided sales journeys and governed follow-up.
+- **24/7 customer experience direction:** known questions can be answered consistently at any time.
+- **Static-first efficiency:** common public answers can be delivered without wasting AI resources.
+- **AI when it adds value:** unresolved questions can be escalated to intelligent assistance as supported.
+- **Lead and relationship continuity:** conversations can become structured opportunities rather than disappearing after a chat ends.
+- **Multi-product potential:** one customer layer can support a growing portfolio of products and websites.
+- **Safer public knowledge boundary:** customer answers are intentionally separated from private-source repositories.
 
-Future capabilities are roadmap directions until released and verified.
+### Customer journey
 
-### Part of KING AI
+**Discover** — Understand what a product does and why it matters.
 
-Customer OS is a core KING AI ecosystem product connected to SEA, AI Workforce and the wider product family.
+**Ask** — Get a useful answer from approved public knowledge.
 
-Official ecosystem: https://www.kingai.work  
-Business & partnership: **vip@kingai.work**
+**Qualify** — Identify whether the visitor is looking for support, purchase information, partnership, enterprise service or another next step.
 
-### Public repository purpose
+**Continue** — Preserve relevant customer context for follow-up instead of forcing every conversation to start over.
 
-This repository contains public product information, business positioning, roadmap and customer-safe knowledge. Private CRM data, production source, internal prompts, private repositories, credentials and sensitive system details are not published here.
+**Convert** — Move qualified interest toward the appropriate sales, service or partnership workflow.
 
----
+### Who it can serve
 
-# 中文
+- small businesses that need a practical support and lead system;
+- multi-site brands that want consistent customer answers;
+- product companies that want support and sales to share context;
+- organizations building an AI-assisted customer operation;
+- KING AI products that need one consistent customer relationship layer.
 
-**KING AI Customer OS** 是 KING AI 主生态的客户服务、销售辅助与客户关系智慧产品。
+### Commercial opportunity
 
-它希望把产品知识、客户问答、线索获取、服务流程和人工接管连接成一个更一致、更容易使用的客户体验。
+Potential paths include hosted customer service, business subscriptions, CRM extensions, managed knowledge services, implementation, enterprise support and embedded customer-intelligence partnerships.
 
-### 为什么有价值
+The opportunity is not just “a chatbot.” A durable customer layer can sit between product discovery, support, sales, account relationships and long-term service.
 
-客户真正需要的是**快速得到有用答案，并知道下一步怎么做**。Customer OS 正在围绕以下方向持续发展：
+Roadmap directions are not claims of current availability. This repository does not claim unverified revenue, customer counts, signed enterprise contracts or market leadership.
 
-- 使用经过批准的公开知识回答常见问题；
-- 引导客户找到合适的产品、服务或下一步行动；
-- 更自然地获取真实商业线索；
-- 对敏感或高价值场景保留人工接管；
-- 为多个产品提供可复用的客户体验层；
-- 长期扩展多语言客服、销售辅助和客户关系智慧。
+## 中文
 
-Customer OS 属于 KING AI 主生态核心产品。未来能力均作为路线图展示，不把尚未完成的功能写成已经全面上线。
+### 把客服、销售与客户关系放回同一个系统
 
-官网：https://www.kingai.work  
-商务与合作：**vip@kingai.work**
+企业的客服、线索、销售跟进、FAQ、产品教育和 CRM 往往分散在不同工具里。KING AI Customer OS 的方向是把这些客户关系重新连接起来：已知问题高效回答，复杂问题在需要时进入智能辅助，有价值的对话沉淀为可继续跟进的客户关系。
+
+一个长期原则是：**面向客户的知识只来自可公开信息。** 私密仓、内部秘密、敏感配置和不适合对外的信息不应成为客服回答来源。
+
+### 产品价值
+
+- **7×24 客户体验方向：** 常见问题随时获得一致回答。
+- **静态优先：** 已知公开答案不浪费 AI 资源。
+- **需要时再用 AI：** 只有无法直接解决的问题才进入更智能的处理路径。
+- **客户关系连续性：** 对话结束后，有价值的背景和跟进机会不会全部消失。
+- **多产品能力：** 一个 Customer OS 可以服务持续扩展的网站和产品组合。
+- **公开知识安全边界：** 客户回答与私密技术仓严格隔离。
+
+### 客户旅程
+
+**发现产品 → 提问 → 判断需求 → 持续跟进 → 转化为服务、购买或合作机会。**
+
+长期看，Customer OS 不只是聊天窗口，而是连接产品发现、客户服务、销售、账户关系和长期运营的客户层。
+
+### 商业方向
+
+可探索托管客服、企业订阅、CRM 扩展、知识库运营、实施服务、企业支持和嵌入式客户智能合作。以上均为商业方向，未正式发布的功能不应被描述成已经上线。
+
+**Product:** https://kefu.kingai.work/  
+**Business:** vip@kingai.work

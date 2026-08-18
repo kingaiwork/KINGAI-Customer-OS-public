@@ -1,43 +1,50 @@
-# KING AI Customer OS · Market & Partnership Direction
+# KING AI Customer OS — Commercial Opportunity
 
 ## English
 
-Customer OS addresses a universal business problem: customer knowledge, sales intent and service history are often fragmented across websites, inboxes, staff and CRM tools.
+Customer conversations are one of the highest-value information streams in a business. They reveal what customers misunderstand, what they want, what stops them from buying and where products create friction. KING AI Customer OS is positioned to convert that stream into better support and more disciplined follow-up.
 
-### Commercial directions
+### Business outcomes
 
-Potential paths include hosted customer-service products, managed knowledge systems, CRM extensions, enterprise deployments, vertical industry packages, multilingual service operations and ecosystem-wide customer intelligence.
+- reduce repeated manual answers for known questions;
+- provide more consistent product information;
+- capture qualified interest earlier;
+- connect service and sales context;
+- create reusable public knowledge from recurring questions;
+- support multiple products through one customer relationship layer.
 
-### Strategic value
+### Commercial models
 
-A customer platform can become more valuable as it accumulates approved knowledge, better service workflows and stronger product understanding. Within KING AI, Customer OS can connect public discovery to measurable business outcomes without making private repositories or confidential data part of public knowledge.
+1. Hosted plans for small and growing businesses.
+2. Business and enterprise tiers with administration and support.
+3. Managed public-knowledge services.
+4. CRM and workflow extensions.
+5. Website/app embedding and implementation.
+6. Enterprise and strategic integration.
 
-### Partnership interests
+### Strategic role inside KING AI
 
-Relevant partners include CRM/service platforms, channel providers, enterprise integrators, customer-experience specialists, vertical industry partners and long-term strategic capital.
+Customer OS can become the common commercial front door for the KING AI portfolio. Products may differ, but discovery, questions, lead qualification, support and partnership interest share the same need for continuity.
 
-No revenue, customer-count or partnership claim is implied unless explicitly verified.
+### Trust boundary
 
-Contact: **vip@kingai.work**
+The commercial experience must never require exposing private repositories or confidential internal knowledge. Public support knowledge remains a curated public layer.
 
----
+## 中文
 
-# 中文
+客户对话是企业最有价值的信息来源之一：它直接告诉企业客户哪里不理解、想要什么、为什么没有购买、产品哪里存在摩擦。KING AI Customer OS 的商业价值，是把这些对话转化为更好的客服体验和更系统的后续跟进。
 
-Customer OS 面向一个普遍存在的企业问题：客户知识、销售意向和服务历史往往分散在网站、邮箱、员工和 CRM 工具之间。
+### 企业价值
 
-### 商业方向
+- 减少重复人工回答；
+- 提高产品信息一致性；
+- 更早识别有价值的客户意向；
+- 让客服与销售共享必要背景；
+- 将高频问题沉淀成可复用公开知识；
+- 用一个客户层服务多个产品。
 
-未来可发展托管客服产品、知识系统、CRM 扩展、企业部署、垂直行业方案、多语言服务运营和跨产品客户智慧等模式。
+### 商业模式方向
 
-### 战略价值
+托管订阅、企业版本、公开知识运营、CRM 与工作流扩展、网站/App 嵌入实施，以及企业级战略集成。
 
-客户系统会随着公开知识、服务流程和产品理解不断积累价值。在 KING AI 体系内，Customer OS 可以把“用户发现”进一步连接到“可衡量的业务结果”，同时仍然坚持私有仓、机密数据和敏感信息不进入公开知识体系。
-
-### 合作方向
-
-适合的合作伙伴包括 CRM/客服平台、沟通渠道、企业集成商、客户体验服务商、垂直行业伙伴及长期战略资本。
-
-除非经过明确验证，本文件不代表已经取得收入、客户规模或正式合作关系。
-
-联系：**vip@kingai.work**
+无论商业规模如何扩大，公开客服知识都不应直接访问私密源码和内部机密。

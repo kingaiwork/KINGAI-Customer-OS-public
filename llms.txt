@@ -1,0 +1,19 @@
+# KING AI Customer OS
+
+## English
+KING AI Customer OS is the KING AI ecosystem product for customer support, sales assistance, lead capture, approved public knowledge and relationship intelligence. This public repository contains customer-safe product facts only.
+
+Official ecosystem: https://www.kingai.work
+Business & partnership: vip@kingai.work
+Public facts: README.md
+Business direction: BUSINESS.md
+Roadmap: ROADMAP.md
+
+## 中文
+KING AI Customer OS 是 KING AI 主生态的客户服务、销售辅助、线索获取、公开知识与客户关系智慧产品。本公开仓仅包含适合客户阅读的产品资料。
+
+官网：https://www.kingai.work
+商务与合作：vip@kingai.work
+公开事实：README.md
+商业方向：BUSINESS.md
+路线图：ROADMAP.md

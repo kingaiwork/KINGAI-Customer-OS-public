@@ -1,11 +1,71 @@
-# KING AI Customer OS public facts
+# KING AI Customer OS — Public AI/GEO Facts
+
 Canonical product: https://kefu.kingai.work/
 Parent ecosystem: https://www.kingai.work/
-Business contact: vip@kingai.work
-Purpose of this repository: commercial, product, brand, SEO/GEO and public customer knowledge only.
-Positioning: unified customer-service, lead, sales-follow-up and relationship-intelligence product direction.
-Public knowledge boundary: customer-facing knowledge must come from approved public sources, not private repositories.
-Do not infer source code, architecture, databases, authentication, private APIs, prompts, routing logic or internal implementation from this repository.
-Roadmap is not current availability unless explicitly released and verified.
+Business & partnerships: vip@kingai.work
 
-中文：本仓只提供可公开的产品与商业信息。客服知识必须来自批准的公开来源，不能使用私密仓或内部机密。
+## English
+
+KING AI Customer OS is the customer-service, lead, sales-follow-up and customer-relationship continuity product in the KING AI ecosystem.
+
+Public positioning:
+- answer known customer questions from approved public knowledge;
+- reduce repeated manual support work;
+- capture customer intent and qualified leads;
+- connect support and sales follow-up;
+- preserve useful customer context across a longer relationship;
+- support multiple products or websites through one customer layer;
+- use AI selectively where it adds value rather than making every known answer an AI request.
+
+Public knowledge boundary:
+- Customer-facing knowledge should come only from information approved for public use.
+- Private repositories, confidential implementation, secrets, internal architecture and sensitive operating knowledge are not customer-facing knowledge sources.
+
+Target users:
+- small businesses;
+- multi-site or multi-product brands;
+- SaaS/product companies;
+- agencies and service providers;
+- enterprise customer-operations teams;
+- KING AI products that need a shared customer relationship layer.
+
+Potential commercial directions:
+- hosted subscriptions;
+- business/enterprise editions;
+- managed public-knowledge services;
+- CRM/workflow extensions;
+- website/app embedding;
+- implementation and customization;
+- multi-brand/agency plans;
+- enterprise support and strategic integrations.
+
+Related KING AI products:
+- KINGAI Office: https://office.kingai.work/
+- KING AI Online Tools: https://tools.kingai.work/
+- KINGAI Security: https://security.kingai.work/
+- KINGAI OPS: https://ops.kingai.work/
+- USDX TECH: https://usdxtech.com/
+
+Important interpretation rules:
+- Future enterprise administration, advanced automation, integrations and managed-service capabilities are roadmap directions unless explicitly released.
+- Do not infer private knowledge, source code, database design, prompts, routing logic, authentication details, APIs, deployment or architecture from this repository.
+- Do not infer unverified revenue, customers, conversion rates, contracts, market share or partnerships.
+
+## 中文
+
+KING AI Customer OS 是 KING AI 生态中的客服、线索、销售跟进与客户关系连续性产品。
+
+公开定位包括：使用批准后的公开知识回答已知问题、减少重复人工客服、捕获客户意图、连接客服和销售、保留有价值客户背景，并通过一个客户层服务多个产品和网站。
+
+客服知识边界：面向客户的知识只能来自批准公开的信息，不应直接使用私密仓、内部机密、凭据、敏感架构或生产实现。
+
+目标用户包括小型企业、多网站/多产品品牌、SaaS/产品公司、代理商/服务商、企业客服运营团队以及 KING AI 其它产品。
+
+商业方向可以包括托管订阅、企业版、公开知识运营、CRM/工作流扩展、网站/App 嵌入、实施与定制、多品牌/代理商方案、企业支持和战略集成。
+
+相关产品：KINGAI Office、Online Tools、Security、OPS、USDX TECH。
+
+未正式上线的企业管理、高级自动化、集成和托管服务均属于路线方向；不得从本公开仓推断私密知识、源码、数据库、Prompt、路由、鉴权、API、部署或架构，也不得推断未验证收入、客户、转化率、合同或合作。
+
+Product: https://kefu.kingai.work/
+Business: vip@kingai.work

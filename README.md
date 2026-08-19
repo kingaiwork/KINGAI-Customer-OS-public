@@ -1,21 +1,41 @@
 # KING AI Customer OS — Legacy Public Repository
 
-**Status: Frozen / legacy public surface**
+> **Moved / 已迁移**
+>
+> This repository is a legacy public discovery and history surface. It is no longer the active public product, customer-knowledge, source or release authority for KING AI Customer OS.
 
-This repository is retained for historical links and repository history during KING AI repository consolidation. It is no longer an active product authority and must not receive new product source, private knowledge, internal architecture, database design, deployment details or confidential customer information.
+**Official product:** https://kefu.kingai.work/  
+**Current KING AI public hub:** https://github.com/kingaiwork/KINGAIASE-public  
+**Main system:** https://www.kingai.work/  
+**Business:** vip@kingai.work
 
-Current public KING AI ecosystem and release hub:
+## English
 
-https://github.com/kingaiwork/KINGAIASE-public
+KING AI Customer OS connects approved public knowledge, support, lead qualification, sales follow-up and longer-term customer relationship continuity.
 
-Official KING AI Customer OS:
+For current product positioning, approved customer-safe knowledge, ecosystem navigation and commercial information, use the official product website and unified public hub.
 
-https://kefu.kingai.work/
+This legacy repository may remain visible for old links and search continuity, but it must not be treated as a second active customer-knowledge source. Private repositories and confidential internal information are never intended to become public support knowledge.
 
-Official KING AI:
+### Explore next
 
-https://www.kingai.work/
+- Customer OS: https://kefu.kingai.work/
+- KING AI public hub: https://github.com/kingaiwork/KINGAIASE-public
+- KINGAI Office: https://office.kingai.work/
+- KING AI Online Tools: https://tools.kingai.work/
 
-The private Customer OS repository remains the product source authority. Historical public material remains available through this repository's Git history.
+---
 
-Business & partnerships: vip@kingai.work
+## 中文
+
+KING AI Customer OS 连接公开知识、客服、线索识别、销售跟进和长期客户关系。
+
+本仓现在属于 **Legacy / 历史公开入口**，不再是当前产品主页、客服知识、源码或发布权威。
+
+请优先使用：
+
+- 官方产品：https://kefu.kingai.work/
+- 统一公开中心：https://github.com/kingaiwork/KINGAIASE-public
+- 商务合作：vip@kingai.work
+
+私密仓和内部机密永远不应该成为公开客服知识来源。

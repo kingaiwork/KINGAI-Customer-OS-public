@@ -1,312 +1,146 @@
 # KING AI Customer OS
 
-**Turn support into service, conversations into opportunities, and public knowledge into a reusable customer relationship.**
+**Turn support into service, conversations into opportunities, and public knowledge into a reusable customer relationship system.**
 
-🌐 **KING AI main system:** https://www.kingai.work/  
-💬 **Product:** https://kefu.kingai.work/  
-📬 **Business / Partnerships:** vip@kingai.work
+Official product: https://kefu.kingai.work/  
+KING AI: https://www.kingai.work/  
+Business & partnerships: vip@kingai.work
 
-> KING AI Customer OS is the customer relationship layer of the KING AI ecosystem — designed to connect public knowledge, customer service, lead capture, sales follow-up and long-term customer context without exposing private technical information.
+This public repository is a commercial showcase only. It contains no source code, private knowledge, internal architecture, API details, database design, authentication mechanisms, deployment instructions, prompts, model-routing logic or confidential customer data.
 
-This public repository is a **commercial product showcase only**. It contains no source code, private knowledge, internal architecture, API details, database design, authentication mechanisms, prompts, model-routing logic, deployment instructions or confidential customer data.
+## English
 
----
+### A customer conversation should not disappear after the answer
 
-# English
+Customer support, lead capture, sales follow-up, FAQs, product education and CRM activity are often split across too many tools. KING AI Customer OS is designed around a more continuous relationship: answer what is known, identify what the visitor needs, preserve useful context and move qualified conversations toward the right next step.
 
-## Customer conversations are too valuable to disappear
+The product is not positioned as “just a chatbot.” The larger opportunity is a customer layer that connects **discovery → support → qualification → sales follow-up → long-term relationship**.
 
-Most businesses already have answers to many customer questions. The problem is that those answers are scattered across websites, inboxes, documents, staff knowledge and separate support systems.
+### Why now
 
-At the same time, sales teams often lose context after the first conversation, support teams repeat the same explanations, and potential customers leave because the next step is unclear.
+Customers increasingly expect fast answers, but businesses also need consistency, lower support cost and better follow-up. AI can help, but blindly sending every question to a model creates unnecessary cost and risk. KING AI Customer OS uses a public-knowledge-first product philosophy: known public information should be reusable, while more complex conversations can escalate to intelligent assistance when appropriate.
 
-KING AI Customer OS is being built around a more connected model:
+### The product promise
 
-**answer what is known, escalate what is not, preserve useful context and turn every qualified conversation into a clearer next step.**
+**Known answers should be fast** — Common public questions should not require repeated human effort.
 
-## Not just another chatbot
+**Hard questions deserve escalation** — Intelligence should add value where static knowledge is not enough.
 
-A chatbot is only one interaction surface. A customer operating system should think about the entire journey:
+**Support and sales should share context** — Valuable customer intent should not disappear when a chat window closes.
 
-**Discover → Ask → Understand → Qualify → Continue → Convert → Support again later.**
+**Public knowledge stays public** — Customer-facing answers must not depend on private source repositories or confidential internal information.
 
-That makes Customer OS broader than a single chat window. The long-term product opportunity is to become a reusable customer layer across websites, products and business workflows.
+**One customer layer can serve many products** — A growing portfolio benefits from consistent public knowledge and relationship handling.
 
-## Core product principles
+### Who it is for
 
-### Public knowledge first
-Customer-facing answers should come from information intentionally approved for public use. Private repositories, confidential business knowledge, credentials and internal operations remain outside the public-answer boundary.
+- small businesses that need practical customer service and lead capture;
+- multi-site or multi-product brands;
+- product companies that want support and sales to share context;
+- organizations building AI-assisted customer operations;
+- agencies and service providers managing customer journeys for clients;
+- KING AI products that need one consistent customer relationship layer.
 
-### Fast answers for known questions
-Common questions should not require expensive or unnecessary intelligence every time. Clear public answers can be delivered efficiently and consistently.
+### The customer journey
 
-### AI where it adds value
-When a question cannot be solved from approved public knowledge, intelligent assistance can become the next layer — subject to product support, controls and release status.
+**Discover** — Understand the product and why it matters.
 
-### Support and sales should share context
-A customer asking for help today may become a qualified lead tomorrow. A customer evaluating a product may later need support. These journeys should not live in disconnected systems forever.
+**Ask** — Get a fast answer from approved public knowledge when possible.
 
-### One customer layer for many products
-As the KING AI portfolio grows, Customer OS can provide a consistent relationship surface across multiple websites and product families.
+**Clarify** — Identify the real need behind the question.
 
-### Human handoff still matters
-Good automation should make it easier to reach the right human or business process when human judgment is needed.
+**Qualify** — Determine whether the visitor needs support, purchase information, enterprise service, partnership or another next step.
 
-## What a better customer journey can look like
+**Continue** — Preserve useful context for follow-up.
 
-### 1. Discover
-A visitor immediately understands what a product is, who it is for and why it matters.
+**Convert** — Move qualified interest into sales, service or partnership workflows.
 
-### 2. Ask
-They get a useful answer from approved public knowledge instead of searching through long pages.
+**Retain** — Use repeated questions and ongoing relationships to improve the customer experience over time.
 
-### 3. Understand intent
-The system can help distinguish support, product evaluation, enterprise interest, partnership, billing or another category.
+### What success should look like
 
-### 4. Preserve useful context
-The next interaction should not necessarily start from zero if the customer has already shared relevant information.
+A good Customer OS should reduce repetitive work without making customers feel trapped in automation. It should help users get answers faster, help businesses understand demand better, and make it easier to continue valuable conversations.
 
-### 5. Move to the right next step
-A qualified customer can be routed toward a sales, support, service or partnership path.
+### Ecosystem role
 
-### 6. Build a longer relationship
-Customer history can become more useful when future interactions need continuity.
+- **Office** supports internal customer documents and workflows.
+- **Tools** creates discovery traffic and practical entry points.
+- **Security** supports trust around business systems.
+- **OPS** supports the infrastructure behind customer operations.
+- **KINGAIBOT** can extend selected workflows toward controlled action as capabilities mature.
+- **USDX TECH** can use Customer OS as part of broader business-system delivery.
 
-## Who should explore Customer OS
+### Explore the ecosystem
 
-- small businesses that need a practical support and lead system;
-- multi-site brands that want consistent answers;
-- product companies that want support and sales to work together;
-- service businesses with repetitive customer questions;
-- organizations building an AI-assisted customer operation;
-- portfolio companies or multi-product brands that need one shared customer layer.
+KINGAI Office: https://office.kingai.work/  
+KINGAI Security: https://security.kingai.work/  
+KINGAI OPS: https://ops.kingai.work/  
+KING AI Online Tools: https://tools.kingai.work/  
+KING AI: https://www.kingai.work/
 
-## Product advantages
+### FAQ
 
-### Lower-friction service
-Customers should get useful answers without unnecessary forms, waiting or complexity.
+**Is this only a chatbot?**  
+No. The product direction covers support, public knowledge, lead continuity, sales follow-up and customer relationships.
 
-### Reusable approved knowledge
-High-quality public information becomes a reusable customer asset instead of something staff rewrite over and over.
+**Can customer-facing AI read private repositories?**  
+No. Public customer knowledge must come from approved public sources.
 
-### Better conversion path
-A support or product question can become a structured opportunity when the customer shows clear commercial interest.
+**Does every question need AI?**  
+No. Static/public answers should handle known questions efficiently.
 
-### Knowledge safety boundary
-Public customer answers remain separated from private technical repositories and confidential internal information.
+**Are all CRM and enterprise capabilities available today?**  
+No. Future capabilities remain roadmap directions until released.
 
-### Scalable multi-product direction
-The same customer layer can support a broader portfolio without rebuilding the entire experience for every product.
-
-### Efficiency before token waste
-Known answers can stay deterministic or static-first; intelligence is reserved for situations where it adds meaningful value.
-
-## Commercial opportunity
-
-Potential business models include:
-
-- hosted customer-service plans,
-- business subscriptions,
-- lead-management and CRM extensions,
-- managed public-knowledge services,
-- implementation services,
-- enterprise support,
-- multi-brand deployments,
-- embedded customer-intelligence partnerships.
-
-The real opportunity is not “sell a chatbot.” It is to become the layer between product discovery, customer support, sales, account relationships and long-term service.
-
-## Why Customer OS matters to KING AI
-
-KING AI is growing as a multi-product ecosystem. That makes customer experience a strategic layer, not an afterthought.
-
-Security customers, Office users, OPS operators, OS users, game players and future enterprise customers may all have different questions — but they can still benefit from one consistent philosophy around public knowledge, fast answers and relationship continuity.
+**How do businesses discuss implementation or partnership?**  
+Email vip@kingai.work.
 
 ---
 
-## Explore the KING AI ecosystem
+## 中文
 
-**KING AI SEA** — Main intelligent system  
-https://www.kingai.work/
+### 一次客户对话不应该在“回答完问题”以后就消失
 
-**KINGAI Office** — Intelligent productivity  
-https://office.kingai.work/
+客服、FAQ、线索、销售跟进、产品教育和 CRM 经常散落在多个系统。KING AI Customer OS 的方向，是把这些客户关系重新连接起来：已知问题快速回答，真正复杂的问题再进入智能辅助，有价值的意向继续跟进，而不是聊天窗口一关就全部归零。
 
-**KINGAI Security** — Intelligent protection  
-https://security.kingai.work/
+它不是“另一个聊天机器人”，而是希望形成完整客户链路：
 
-**KINGAI OS** — AI-native computing  
-https://os.kingai.work/
+**发现 → 咨询 → 识别需求 → 判断意向 → 跟进 → 转化 → 长期关系。**
 
-**KINGAI OPS** — Infrastructure operations  
-https://ops.kingai.work/
+### 为什么是现在
 
-**KING AI Online Tools** — Practical browser utilities  
-https://tools.kingai.work/
+客户期待越来越快的答案，企业同时又需要降低重复客服成本、提高一致性并抓住销售机会。并不是所有问题都值得调用 AI；大量已知问题更适合从公开知识快速回答，只有真正需要判断和推理时再使用智能能力。
 
-**KINGAIBOT** — Controlled intelligent action  
-https://github.com/kingaiwork/KINGAIBOT
+### 产品承诺
 
-**AI Life** — Persistent virtual life  
-https://life.kingai.work/
+**常见问题快速回答。**  
+**复杂问题需要时再升级。**  
+**客服与销售共享必要背景。**  
+**客户公开知识永远与私密源码隔离。**  
+**一个客户层可以服务多个产品。**
 
-**KINGAI Pet** — Digital companion, collection and adventure  
-https://pet.kingai.work/
+### 客户完整旅程
 
-**Digital Life** — Persistent digital identity and continuity  
-https://digital.kingai.work/
+**发现产品 → 提问 → 澄清需求 → 判断客户类型 → 持续跟进 → 转化为服务/购买/合作 → 长期维护关系。**
 
-## Frequently asked questions
+### 适合谁
 
-### Is Customer OS only for support?
-No. The broader direction connects support, product education, lead capture, sales follow-up and longer-term customer relationships.
+小型企业、多站点品牌、多产品公司、希望建设 AI 客服/销售体系的组织、服务商，以及 KING AI 自身不断扩展的产品组合。
 
-### Does it read private KING AI repositories to answer customers?
-No. Customer-facing knowledge is intentionally limited to approved public information.
+### 理想结果
 
-### Is every AI capability always used for every question?
-No. The product philosophy is to use efficient known answers first and add intelligence where it creates real value.
+减少重复人工，同时不要把客户困在机器人里；让客户更快得到答案，让企业更早知道客户真正想要什么，并让值得继续的对话能够自然进入后续流程。
 
-### Can it replace every human support agent?
-That is not the goal. Automation should reduce repetitive work and make human escalation more effective when judgment is needed.
+### 与 KING AI 的关系
 
-### Is this public repository open source?
-No. It is a commercial showcase only.
+Office 支撑内部工作，Tools 带来新用户入口，Security 提供可信保护，OPS 支撑基础设施，BOT 未来可以承接受控流程执行，而 USDX TECH 可以把 Customer OS 组合进真实企业解决方案。
 
----
+### 常见问题
 
-# 中文
+**只是聊天机器人吗？** 不是，核心是完整客户关系。  
+**客服会读取私密仓吗？** 不会，公开客服知识只来自批准的公开来源。  
+**所有问题都用 AI 吗？** 不需要，已知问题优先静态高效回答。  
+**商务合作？** vip@kingai.work
 
-## 客户对话太有价值，不应该聊完就消失
-
-很多企业其实已经拥有大量客户问题的答案，但这些答案散落在官网、邮箱、文档、员工经验和不同客服系统中。
-
-同时，销售团队经常在第一次沟通后失去上下文，客服人员不断重复同样解释，潜在客户也可能因为“不知道下一步怎么办”而直接离开。
-
-KING AI Customer OS 希望把这些问题连接起来：
-
-**已知问题快速回答，未知问题进入更智能的处理路径，有价值的上下文持续保留，并把明确需求引导到正确的下一步。**
-
-## 它不只是另一个聊天机器人
-
-聊天窗口只是一个入口。真正的客户系统应该覆盖完整旅程：
-
-**发现 → 提问 → 理解 → 判断需求 → 持续跟进 → 转化 → 未来继续服务。**
-
-因此 Customer OS 的长期机会，是成为跨网站、跨产品、跨业务流程都能重复使用的客户关系层。
-
-## 核心产品原则
-
-### 公开知识优先
-面向客户的回答只应该来自明确允许公开的信息。私密仓、内部经营资料、凭据和敏感技术信息不会进入公开客服知识边界。
-
-### 已知问题应该更快
-大量常见问题不需要每一次都消耗复杂 AI。能够确定回答的公开内容应该高效、稳定地直接提供。
-
-### 需要时再使用 AI
-只有公开知识无法直接解决的问题，才适合进入更智能的辅助处理路径，并且仍然受到产品支持范围和控制规则限制。
-
-### 客服和销售不应该永远彼此割裂
-今天来寻求帮助的客户，明天可能产生购买需求；今天咨询产品的人，未来也可能需要售后支持。客户旅程应该更连续。
-
-### 一个系统服务多个产品
-随着 KING AI 产品越来越多，Customer OS 可以成为统一的客户关系入口，而不是每一个产品都重新搭一套完全不同的客服体系。
-
-### 人工接管仍然重要
-好的自动化不是强行把所有问题留给机器，而是在需要判断的时候更快找到正确的人或业务流程。
-
-## 更好的客户旅程
-
-### 1. 发现
-用户快速理解产品是什么、适合谁、为什么值得了解。
-
-### 2. 提问
-不必翻很多页面，直接从公开知识中得到明确答案。
-
-### 3. 判断需求
-识别这是客服、产品咨询、企业购买、合作、账单还是其他需求。
-
-### 4. 保留有价值的上下文
-后续沟通不必永远从零开始。
-
-### 5. 进入正确流程
-有明确商业意向的客户可以进入销售、服务、合作或支持流程。
-
-### 6. 建立长期关系
-未来再次沟通时，真正有价值的历史信息可以让服务更连续。
-
-## 适合谁
-
-- 需要实用客服和线索系统的小企业；
-- 希望不同门店保持统一回答的品牌；
-- 希望客服和销售共享上下文的产品公司；
-- 有大量重复咨询的服务行业；
-- 正在建设 AI 辅助客服体系的组织；
-- 需要一个系统服务多个产品的品牌和产品组合。
-
-## 产品优势
-
-### 降低客户沟通阻力
-用户应该更快得到答案，而不是被迫填写大量表格或等待很久。
-
-### 把公开知识变成长期资产
-高质量公开内容不再只是写在网页上的文字，而是可以重复用于客服、销售和产品教育。
-
-### 更清楚的转化路径
-当用户表现出明确购买、企业服务或合作兴趣时，对话可以自然进入更结构化的下一步。
-
-### 私密知识隔离
-面向客户的知识始终与私密技术仓和内部敏感资料分开。
-
-### 多产品扩展方向
-一个 Customer OS 可以持续支持更多产品，而不需要每次从头建设。
-
-### 先解决问题，再消耗 AI
-能确定回答的问题优先直接解决，真正复杂的问题才使用更智能的能力。
-
-## 商业化空间
-
-长期可以探索托管客服、企业订阅、CRM/线索扩展、公开知识运营、实施服务、企业支持、多品牌部署和嵌入式客户智能合作。
-
-真正的机会不是“卖一个聊天机器人”，而是成为连接产品发现、客户服务、销售、账户关系和长期运营的客户层。
-
-## 为什么它对 KING AI 很重要
-
-KING AI 正在形成多产品生态。Security、Office、OPS、OS、游戏和未来企业产品都会面对不同客户问题，因此客户体验本身就是重要的生态基础。
-
-Customer OS 可以让整个产品家族拥有更一致的公开知识、快速回答和长期客户关系理念。
-
----
-
-## 继续探索 KING AI
-
-- **KING AI SEA 主系统** — https://www.kingai.work/
-- **KINGAI Office** — https://office.kingai.work/
-- **KINGAI Security** — https://security.kingai.work/
-- **KINGAI OS** — https://os.kingai.work/
-- **KINGAI OPS** — https://ops.kingai.work/
-- **KING AI Online Tools** — https://tools.kingai.work/
-- **KINGAIBOT** — https://github.com/kingaiwork/KINGAIBOT
-- **AI Life** — https://life.kingai.work/
-- **KINGAI Pet** — https://pet.kingai.work/
-- **Digital Life** — https://digital.kingai.work/
-
-## 常见问题
-
-### Customer OS 只是做客服吗？
-不是。长期方向会连接客服、产品教育、线索、销售跟进和客户关系。
-
-### 会读取 KING AI 私密仓来回答客户吗？
-不会。客户知识只来自明确允许公开的信息。
-
-### 所有问题都会调用 AI 吗？
-不会。已知问题优先直接高效回答，真正复杂的问题才使用更智能能力。
-
-### 目标是完全取代人工客服吗？
-不是。自动化负责减少重复劳动，在需要判断的时候仍然要方便进入人工或正确业务流程。
-
-### 公开仓有系统源码吗？
-没有。这里仅用于商业和产品介绍。
-
-🌐 **主系统:** https://www.kingai.work/  
-📬 **商务合作:** vip@kingai.work
+**Product:** https://kefu.kingai.work/  
+**KING AI:** https://www.kingai.work/
